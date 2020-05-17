@@ -105,7 +105,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _mod
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log('Вызов из module')\n\n//# sourceURL=webpack:///./module.js?");
+eval("console.log('Вызов из module')\r\nconsole.log('Еще один')\n\n//# sourceURL=webpack:///./module.js?");
 
 /***/ })
 
